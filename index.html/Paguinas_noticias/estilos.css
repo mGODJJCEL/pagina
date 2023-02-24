@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    background-color: rgba(71, 66, 62, 0.514);
+}
+body h1{
+    background-color: rgb(12, 235, 235);
+}
+body iframe{
+   
+   width: 800px;
+   height: 500px;
+}
+body img{
+    width: 70%;
+    height: 80%;
+}

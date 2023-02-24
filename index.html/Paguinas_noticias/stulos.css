@@ -1,0 +1,14 @@
+*{
+    background: cornflowerblue;
+}
+body{
+    background: cornflowerblue;
+
+}
+body iframe{
+    float: right;
+    width: 800px;
+    height: 600px;
+    
+}
+
